@@ -1,0 +1,8 @@
+body{
+  background-color:red;
+}
+nav a{
+  text-decoration:none;
+  color:black;
+  padding:10px;
+}

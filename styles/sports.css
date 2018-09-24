@@ -1,0 +1,12 @@
+body{
+  background-color:yellow;
+}
+img{
+  height:300px;
+  width:500px;
+}
+nav a{
+  text-decoration:none;
+  color:black;
+  padding:10px;
+}
